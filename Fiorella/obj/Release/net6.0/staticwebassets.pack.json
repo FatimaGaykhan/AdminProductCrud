@@ -1,0 +1,2761 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/obj/Release/net6.0/scopedcss/projectbundle/Fiorella.bundle.scp.css",
+      "PackagePath": "staticwebassets/Fiorella.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/css/animate.css",
+      "PackagePath": "staticwebassets/admin/assets/css/animate.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/css/app-style.css",
+      "PackagePath": "staticwebassets/admin/assets/css/app-style.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/css/bootstrap.css",
+      "PackagePath": "staticwebassets/admin/assets/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/admin/assets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/css/edit.css",
+      "PackagePath": "staticwebassets/admin/assets/css/edit.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/css/icons.css",
+      "PackagePath": "staticwebassets/admin/assets/css/icons.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/css/pace.min.css",
+      "PackagePath": "staticwebassets/admin/assets/css/pace.min.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/css/sidebar-menu.css",
+      "PackagePath": "staticwebassets/admin/assets/css/sidebar-menu.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ad.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ad.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ae.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ae.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/af.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/af.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ag.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ag.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ai.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ai.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/al.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/al.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/am.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/am.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ao.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ao.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/aq.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/aq.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ar.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ar.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/as.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/as.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/at.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/at.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/au.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/au.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/aw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/aw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ax.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ax.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/az.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/az.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ba.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ba.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/bb.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/bb.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/bd.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/bd.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/be.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/be.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/bf.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/bf.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/bg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/bg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/bh.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/bh.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/bi.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/bi.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/bj.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/bj.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/bl.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/bl.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/bm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/bm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/bn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/bn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/bo.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/bo.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/bq.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/bq.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/br.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/br.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/bs.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/bs.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/bt.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/bt.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/bv.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/bv.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/bw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/bw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/by.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/by.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/bz.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/bz.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ca.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ca.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/cc.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/cc.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/cd.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/cd.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/cf.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/cf.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/cg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/cg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ch.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ch.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ci.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ci.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ck.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ck.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/cl.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/cl.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/cm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/cm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/cn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/cn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/co.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/co.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/cr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/cr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/cu.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/cu.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/cv.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/cv.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/cw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/cw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/cx.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/cx.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/cy.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/cy.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/cz.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/cz.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/de.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/de.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/dj.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/dj.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/dk.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/dk.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/dm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/dm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/do.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/do.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/dz.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/dz.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ec.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ec.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ee.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ee.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/eg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/eg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/eh.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/eh.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/er.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/er.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/es-ct.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/es-ct.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/es.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/es.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/et.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/et.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/eu.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/eu.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/fi.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/fi.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/fj.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/fj.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/fk.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/fk.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/fm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/fm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/fo.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/fo.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/fr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/fr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ga.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ga.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gb-eng.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gb-eng.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gb-nir.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gb-nir.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gb-sct.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gb-sct.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gb-wls.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gb-wls.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gb.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gb.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gd.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gd.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ge.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ge.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gf.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gf.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gh.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gh.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gi.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gi.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gl.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gl.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gp.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gp.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gq.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gq.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gs.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gs.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gt.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gt.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gu.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gu.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/gy.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/gy.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/hk.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/hk.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/hm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/hm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/hn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/hn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/hr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/hr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ht.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ht.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/hu.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/hu.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/id.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/id.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ie.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ie.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/il.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/il.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/im.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/im.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/in.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/in.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/io.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/io.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/iq.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/iq.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ir.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ir.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/is.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/is.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/it.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/it.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/je.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/je.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/jm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/jm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/jo.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/jo.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/jp.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/jp.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ke.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ke.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/kg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/kg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/kh.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/kh.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ki.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ki.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/km.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/km.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/kn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/kn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/kp.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/kp.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/kr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/kr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/kw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/kw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ky.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ky.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/kz.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/kz.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/la.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/la.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/lb.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/lb.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/lc.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/lc.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/li.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/li.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/lk.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/lk.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/lr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/lr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ls.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ls.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/lt.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/lt.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/lu.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/lu.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/lv.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/lv.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ly.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ly.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ma.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ma.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/mc.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/mc.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/md.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/md.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/me.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/me.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/mf.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/mf.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/mg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/mg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/mh.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/mh.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/mk.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/mk.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ml.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ml.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/mm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/mm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/mn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/mn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/mo.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/mo.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/mp.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/mp.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/mq.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/mq.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/mr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/mr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ms.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ms.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/mt.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/mt.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/mu.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/mu.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/mv.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/mv.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/mw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/mw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/mx.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/mx.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/my.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/my.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/mz.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/mz.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/na.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/na.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/nc.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/nc.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ne.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ne.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/nf.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/nf.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ng.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ng.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ni.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ni.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/nl.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/nl.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/no.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/no.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/np.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/np.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/nr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/nr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/nu.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/nu.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/nz.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/nz.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/om.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/om.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/pa.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/pa.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/pe.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/pe.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/pf.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/pf.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/pg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/pg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ph.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ph.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/pk.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/pk.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/pl.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/pl.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/pm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/pm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/pn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/pn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/pr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/pr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ps.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ps.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/pt.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/pt.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/pw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/pw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/py.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/py.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/qa.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/qa.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/re.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/re.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ro.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ro.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/rs.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/rs.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ru.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ru.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/rw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/rw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/sa.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/sa.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/sb.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/sb.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/sc.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/sc.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/sd.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/sd.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/se.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/se.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/sg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/sg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/sh.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/sh.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/si.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/si.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/sj.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/sj.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/sk.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/sk.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/sl.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/sl.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/sm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/sm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/sn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/sn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/so.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/so.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/sr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/sr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ss.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ss.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/st.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/st.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/sv.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/sv.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/sx.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/sx.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/sy.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/sy.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/sz.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/sz.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/tc.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/tc.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/td.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/td.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/tf.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/tf.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/tg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/tg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/th.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/th.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/tj.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/tj.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/tk.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/tk.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/tl.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/tl.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/tm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/tm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/tn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/tn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/to.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/to.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/tr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/tr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/tt.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/tt.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/tv.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/tv.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/tw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/tw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/tz.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/tz.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ua.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ua.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ug.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ug.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/um.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/um.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/un.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/un.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/us.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/us.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/uy.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/uy.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/uz.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/uz.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/va.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/va.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/vc.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/vc.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ve.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ve.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/vg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/vg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/vi.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/vi.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/vn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/vn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/vu.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/vu.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/wf.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/wf.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ws.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ws.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/ye.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/ye.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/yt.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/yt.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/za.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/za.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/zm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/zm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/1x1/zw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/1x1/zw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ad.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ad.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ae.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ae.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/af.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/af.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ag.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ag.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ai.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ai.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/al.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/al.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/am.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/am.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ao.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ao.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/aq.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/aq.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ar.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ar.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/as.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/as.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/at.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/at.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/au.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/au.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/aw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/aw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ax.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ax.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/az.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/az.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ba.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ba.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/bb.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/bb.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/bd.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/bd.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/be.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/be.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/bf.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/bf.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/bg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/bg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/bh.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/bh.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/bi.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/bi.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/bj.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/bj.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/bl.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/bl.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/bm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/bm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/bn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/bn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/bo.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/bo.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/bq.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/bq.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/br.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/br.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/bs.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/bs.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/bt.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/bt.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/bv.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/bv.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/bw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/bw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/by.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/by.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/bz.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/bz.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ca.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ca.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/cc.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/cc.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/cd.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/cd.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/cf.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/cf.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/cg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/cg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ch.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ch.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ci.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ci.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ck.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ck.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/cl.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/cl.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/cm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/cm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/cn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/cn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/co.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/co.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/cr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/cr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/cu.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/cu.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/cv.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/cv.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/cw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/cw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/cx.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/cx.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/cy.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/cy.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/cz.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/cz.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/de.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/de.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/dj.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/dj.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/dk.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/dk.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/dm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/dm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/do.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/do.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/dz.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/dz.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ec.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ec.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ee.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ee.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/eg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/eg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/eh.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/eh.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/er.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/er.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/es-ct.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/es-ct.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/es.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/es.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/et.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/et.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/eu.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/eu.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/fi.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/fi.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/fj.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/fj.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/fk.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/fk.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/fm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/fm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/fo.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/fo.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/fr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/fr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ga.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ga.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gb-eng.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gb-eng.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gb-nir.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gb-nir.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gb-sct.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gb-sct.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gb-wls.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gb-wls.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gb.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gb.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gd.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gd.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ge.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ge.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gf.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gf.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gh.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gh.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gi.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gi.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gl.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gl.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gp.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gp.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gq.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gq.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gs.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gs.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gt.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gt.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gu.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gu.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/gy.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/gy.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/hk.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/hk.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/hm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/hm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/hn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/hn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/hr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/hr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ht.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ht.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/hu.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/hu.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/id.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/id.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ie.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ie.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/il.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/il.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/im.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/im.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/in.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/in.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/io.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/io.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/iq.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/iq.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ir.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ir.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/is.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/is.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/it.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/it.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/je.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/je.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/jm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/jm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/jo.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/jo.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/jp.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/jp.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ke.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ke.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/kg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/kg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/kh.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/kh.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ki.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ki.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/km.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/km.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/kn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/kn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/kp.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/kp.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/kr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/kr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/kw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/kw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ky.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ky.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/kz.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/kz.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/la.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/la.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/lb.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/lb.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/lc.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/lc.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/li.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/li.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/lk.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/lk.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/lr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/lr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ls.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ls.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/lt.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/lt.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/lu.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/lu.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/lv.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/lv.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ly.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ly.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ma.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ma.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/mc.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/mc.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/md.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/md.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/me.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/me.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/mf.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/mf.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/mg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/mg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/mh.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/mh.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/mk.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/mk.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ml.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ml.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/mm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/mm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/mn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/mn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/mo.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/mo.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/mp.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/mp.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/mq.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/mq.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/mr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/mr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ms.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ms.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/mt.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/mt.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/mu.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/mu.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/mv.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/mv.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/mw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/mw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/mx.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/mx.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/my.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/my.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/mz.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/mz.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/na.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/na.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/nc.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/nc.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ne.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ne.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/nf.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/nf.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ng.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ng.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ni.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ni.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/nl.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/nl.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/no.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/no.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/np.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/np.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/nr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/nr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/nu.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/nu.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/nz.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/nz.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/om.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/om.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/pa.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/pa.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/pe.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/pe.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/pf.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/pf.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/pg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/pg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ph.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ph.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/pk.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/pk.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/pl.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/pl.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/pm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/pm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/pn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/pn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/pr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/pr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ps.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ps.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/pt.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/pt.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/pw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/pw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/py.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/py.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/qa.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/qa.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/re.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/re.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ro.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ro.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/rs.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/rs.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ru.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ru.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/rw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/rw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/sa.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/sa.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/sb.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/sb.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/sc.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/sc.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/sd.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/sd.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/se.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/se.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/sg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/sg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/sh.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/sh.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/si.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/si.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/sj.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/sj.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/sk.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/sk.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/sl.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/sl.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/sm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/sm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/sn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/sn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/so.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/so.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/sr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/sr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ss.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ss.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/st.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/st.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/sv.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/sv.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/sx.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/sx.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/sy.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/sy.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/sz.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/sz.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/tc.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/tc.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/td.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/td.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/tf.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/tf.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/tg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/tg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/th.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/th.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/tj.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/tj.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/tk.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/tk.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/tl.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/tl.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/tm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/tm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/tn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/tn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/to.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/to.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/tr.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/tr.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/tt.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/tt.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/tv.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/tv.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/tw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/tw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/tz.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/tz.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ua.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ua.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ug.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ug.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/um.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/um.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/un.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/un.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/us.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/us.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/uy.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/uy.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/uz.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/uz.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/va.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/va.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/vc.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/vc.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ve.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ve.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/vg.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/vg.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/vi.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/vi.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/vn.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/vn.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/vu.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/vu.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/wf.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/wf.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ws.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ws.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/ye.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/ye.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/yt.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/yt.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/za.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/za.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/zm.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/zm.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/flags/4x3/zw.svg",
+      "PackagePath": "staticwebassets/admin/assets/flags/4x3/zw.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/admin/assets/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets/admin/assets/fonts/Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets/admin/assets/fonts/Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets/admin/assets/fonts/Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets/admin/assets/fonts/Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets/admin/assets/fonts/Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets/admin/assets/fonts/Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets/admin/assets/fonts/Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets/admin/assets/fonts/Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets/admin/assets/fonts/Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets/admin/assets/fonts/Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/admin/assets/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/admin/assets/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/admin/assets/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/admin/assets/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/admin/assets/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/line-awesome.eot",
+      "PackagePath": "staticwebassets/admin/assets/fonts/line-awesome.eot"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/line-awesome.svg",
+      "PackagePath": "staticwebassets/admin/assets/fonts/line-awesome.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/line-awesome.ttf",
+      "PackagePath": "staticwebassets/admin/assets/fonts/line-awesome.ttf"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/line-awesome.woff",
+      "PackagePath": "staticwebassets/admin/assets/fonts/line-awesome.woff"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/line-awesome.woff2",
+      "PackagePath": "staticwebassets/admin/assets/fonts/line-awesome.woff2"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/themify.eot",
+      "PackagePath": "staticwebassets/admin/assets/fonts/themify.eot"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/themify.svg",
+      "PackagePath": "staticwebassets/admin/assets/fonts/themify.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/themify.ttf",
+      "PackagePath": "staticwebassets/admin/assets/fonts/themify.ttf"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/themify.woff",
+      "PackagePath": "staticwebassets/admin/assets/fonts/themify.woff"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets/admin/assets/fonts/weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets/admin/assets/fonts/weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets/admin/assets/fonts/weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets/admin/assets/fonts/weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/fonts/weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets/admin/assets/fonts/weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/images/bg-themes/1.png",
+      "PackagePath": "staticwebassets/admin/assets/images/bg-themes/1.png"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/images/bg-themes/2.png",
+      "PackagePath": "staticwebassets/admin/assets/images/bg-themes/2.png"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/images/bg-themes/3.png",
+      "PackagePath": "staticwebassets/admin/assets/images/bg-themes/3.png"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/images/bg-themes/4.png",
+      "PackagePath": "staticwebassets/admin/assets/images/bg-themes/4.png"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/images/bg-themes/5.png",
+      "PackagePath": "staticwebassets/admin/assets/images/bg-themes/5.png"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/images/bg-themes/6.png",
+      "PackagePath": "staticwebassets/admin/assets/images/bg-themes/6.png"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/images/favicon.ico",
+      "PackagePath": "staticwebassets/admin/assets/images/favicon.ico"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/images/gallery/cd-icon-navigation.svg",
+      "PackagePath": "staticwebassets/admin/assets/images/gallery/cd-icon-navigation.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/images/logo-icon.png",
+      "PackagePath": "staticwebassets/admin/assets/images/logo-icon.png"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/images/timeline/angular-icon.svg",
+      "PackagePath": "staticwebassets/admin/assets/images/timeline/angular-icon.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/images/timeline/bootstrap-4.svg",
+      "PackagePath": "staticwebassets/admin/assets/images/timeline/bootstrap-4.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/images/timeline/cd-arrow.svg",
+      "PackagePath": "staticwebassets/admin/assets/images/timeline/cd-arrow.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/images/timeline/cd-icon-location.svg",
+      "PackagePath": "staticwebassets/admin/assets/images/timeline/cd-icon-location.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/images/timeline/cd-icon-movie.svg",
+      "PackagePath": "staticwebassets/admin/assets/images/timeline/cd-icon-movie.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/images/timeline/cd-icon-picture.svg",
+      "PackagePath": "staticwebassets/admin/assets/images/timeline/cd-icon-picture.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/images/timeline/css-3.svg",
+      "PackagePath": "staticwebassets/admin/assets/images/timeline/css-3.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/images/timeline/html5.svg",
+      "PackagePath": "staticwebassets/admin/assets/images/timeline/html5.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/images/timeline/react.svg",
+      "PackagePath": "staticwebassets/admin/assets/images/timeline/react.svg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/js/app-script.js",
+      "PackagePath": "staticwebassets/admin/assets/js/app-script.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/js/archive.js",
+      "PackagePath": "staticwebassets/admin/assets/js/archive.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/js/bootstrap.js",
+      "PackagePath": "staticwebassets/admin/assets/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/admin/assets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/js/index.js",
+      "PackagePath": "staticwebassets/admin/assets/js/index.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/js/jquery.min.js",
+      "PackagePath": "staticwebassets/admin/assets/js/jquery.min.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/js/pace.min.js",
+      "PackagePath": "staticwebassets/admin/assets/js/pace.min.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/js/popper.min.js",
+      "PackagePath": "staticwebassets/admin/assets/js/popper.min.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/js/productedit.js",
+      "PackagePath": "staticwebassets/admin/assets/js/productedit.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/js/sidebar-menu.js",
+      "PackagePath": "staticwebassets/admin/assets/js/sidebar-menu.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/plugins/Chart.js/Chart.min.js",
+      "PackagePath": "staticwebassets/admin/assets/plugins/Chart.js/Chart.min.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/plugins/Chart.js/chartjs-script.js",
+      "PackagePath": "staticwebassets/admin/assets/plugins/Chart.js/chartjs-script.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/plugins/fullcalendar/css/fullcalendar.css",
+      "PackagePath": "staticwebassets/admin/assets/plugins/fullcalendar/css/fullcalendar.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/plugins/fullcalendar/css/fullcalendar.min.css",
+      "PackagePath": "staticwebassets/admin/assets/plugins/fullcalendar/css/fullcalendar.min.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/plugins/fullcalendar/css/fullcalendar.print.css",
+      "PackagePath": "staticwebassets/admin/assets/plugins/fullcalendar/css/fullcalendar.print.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/plugins/fullcalendar/css/fullcalendar.print.min.css",
+      "PackagePath": "staticwebassets/admin/assets/plugins/fullcalendar/css/fullcalendar.print.min.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/plugins/fullcalendar/js/fullcalendar-custom-script.js",
+      "PackagePath": "staticwebassets/admin/assets/plugins/fullcalendar/js/fullcalendar-custom-script.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/plugins/fullcalendar/js/fullcalendar.js",
+      "PackagePath": "staticwebassets/admin/assets/plugins/fullcalendar/js/fullcalendar.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/plugins/fullcalendar/js/fullcalendar.min.js",
+      "PackagePath": "staticwebassets/admin/assets/plugins/fullcalendar/js/fullcalendar.min.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/plugins/fullcalendar/js/jquery-ui.min.js",
+      "PackagePath": "staticwebassets/admin/assets/plugins/fullcalendar/js/jquery-ui.min.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/plugins/fullcalendar/js/moment.min.js",
+      "PackagePath": "staticwebassets/admin/assets/plugins/fullcalendar/js/moment.min.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/plugins/jquery.easy-pie-chart/easy-pie-chart.init.js",
+      "PackagePath": "staticwebassets/admin/assets/plugins/jquery.easy-pie-chart/easy-pie-chart.init.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/plugins/jquery.easy-pie-chart/easypiechart.min.js",
+      "PackagePath": "staticwebassets/admin/assets/plugins/jquery.easy-pie-chart/easypiechart.min.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/plugins/jquery.easy-pie-chart/jquery.easypiechart.min.js",
+      "PackagePath": "staticwebassets/admin/assets/plugins/jquery.easy-pie-chart/jquery.easypiechart.min.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/plugins/simplebar/css/simplebar.css",
+      "PackagePath": "staticwebassets/admin/assets/plugins/simplebar/css/simplebar.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/plugins/simplebar/js/simplebar.js",
+      "PackagePath": "staticwebassets/admin/assets/plugins/simplebar/js/simplebar.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/plugins/sparkline-charts/jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets/admin/assets/plugins/sparkline-charts/jquery.sparkline.min.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/admin/assets/plugins/sparkline-charts/sparkline-chart-script.js",
+      "PackagePath": "staticwebassets/admin/assets/plugins/sparkline-charts/sparkline-chart-script.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/css/blogdetail.css",
+      "PackagePath": "staticwebassets/css/blogdetail.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/css/product.css",
+      "PackagePath": "staticwebassets/css/product.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/css/style.css.map",
+      "PackagePath": "staticwebassets/css/style.css.map"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/03ef65fe-3388-48e2-92e4-2223cde4253e-banner-7.jpg",
+      "PackagePath": "staticwebassets/img/03ef65fe-3388-48e2-92e4-2223cde4253e-banner-7.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/0d220f6d-f795-472c-8fbd-c94ba8e158e0-product-9.jpg",
+      "PackagePath": "staticwebassets/img/0d220f6d-f795-472c-8fbd-c94ba8e158e0-product-9.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/1880a0b2-29c1-4458-89ba-cb8f2fc827d7-product-1.jpg",
+      "PackagePath": "staticwebassets/img/1880a0b2-29c1-4458-89ba-cb8f2fc827d7-product-1.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/2e753736-b938-4660-91dd-2937b207dd24-banner-5.jpg",
+      "PackagePath": "staticwebassets/img/2e753736-b938-4660-91dd-2937b207dd24-banner-5.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/410977bd-8bfd-4355-9708-10126d2a7aa3-banner-4.jpg",
+      "PackagePath": "staticwebassets/img/410977bd-8bfd-4355-9708-10126d2a7aa3-banner-4.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/47567650-8d7f-48ff-b15d-bf59f1bef185-banner-4.jpg",
+      "PackagePath": "staticwebassets/img/47567650-8d7f-48ff-b15d-bf59f1bef185-banner-4.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/4c42e640-a399-4e41-9f14-e29cb64fc9d2-product-7.jpg",
+      "PackagePath": "staticwebassets/img/4c42e640-a399-4e41-9f14-e29cb64fc9d2-product-7.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/681ed30a-5332-487f-9a2c-815ebb41dfc9-product-5.jpg",
+      "PackagePath": "staticwebassets/img/681ed30a-5332-487f-9a2c-815ebb41dfc9-product-5.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/93c196a4-845c-4921-91d0-46e7bc8c9358-banner-4.jpg",
+      "PackagePath": "staticwebassets/img/93c196a4-845c-4921-91d0-46e7bc8c9358-banner-4.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/b08a5712-e9d6-4bd8-8182-d80d4527f7ea-banner-5.jpg",
+      "PackagePath": "staticwebassets/img/b08a5712-e9d6-4bd8-8182-d80d4527f7ea-banner-5.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/b0b2dfe0-39cf-4719-a2fa-58a853202e4b-banner-4.jpg",
+      "PackagePath": "staticwebassets/img/b0b2dfe0-39cf-4719-a2fa-58a853202e4b-banner-4.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/blog-feature-img-1.jpg",
+      "PackagePath": "staticwebassets/img/blog-feature-img-1.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/blog-feature-img-3.jpg",
+      "PackagePath": "staticwebassets/img/blog-feature-img-3.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/blog-feature-img-4.jpg",
+      "PackagePath": "staticwebassets/img/blog-feature-img-4.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/d207236a-1ff1-4204-93b6-e3be2e99a514-product-8.jpg",
+      "PackagePath": "staticwebassets/img/d207236a-1ff1-4204-93b6-e3be2e99a514-product-8.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/dde60874-947a-4675-b870-be9b93f19328-product-4.jpg",
+      "PackagePath": "staticwebassets/img/dde60874-947a-4675-b870-be9b93f19328-product-4.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/e18f6e15-57db-4db9-be0c-226df31c2dfd-product-10.jpg",
+      "PackagePath": "staticwebassets/img/e18f6e15-57db-4db9-be0c-226df31c2dfd-product-10.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/e40751cf-00c6-4a0a-837c-16935318a73a-product-1.jpg",
+      "PackagePath": "staticwebassets/img/e40751cf-00c6-4a0a-837c-16935318a73a-product-1.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/eaf6e9d1-e565-4785-b343-e02bed2ac879-product-4.jpg",
+      "PackagePath": "staticwebassets/img/eaf6e9d1-e565-4785-b343-e02bed2ac879-product-4.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/favicon.png",
+      "PackagePath": "staticwebassets/img/favicon.png"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/fc1ef06b-1f3b-4d45-8f86-d1d40d4b19c5-product-3.jpg",
+      "PackagePath": "staticwebassets/img/fc1ef06b-1f3b-4d45-8f86-d1d40d4b19c5-product-3.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/fe44723e-f617-49ec-ba57-2d8e7f42f99d-product-8.jpg",
+      "PackagePath": "staticwebassets/img/fe44723e-f617-49ec-ba57-2d8e7f42f99d-product-8.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/ffbcc7e4-e869-4776-bb74-92d46de992c9-banner-5.jpg",
+      "PackagePath": "staticwebassets/img/ffbcc7e4-e869-4776-bb74-92d46de992c9-banner-5.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/footer-bottom-1.png",
+      "PackagePath": "staticwebassets/img/footer-bottom-1.png"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/h1-custom-icon.png",
+      "PackagePath": "staticwebassets/img/h1-custom-icon.png"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/h2-sign-img.png",
+      "PackagePath": "staticwebassets/img/h2-sign-img.png"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/h3-background-img.jpg",
+      "PackagePath": "staticwebassets/img/h3-background-img.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/h3-slider-background-2.jpg",
+      "PackagePath": "staticwebassets/img/h3-slider-background-2.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/h3-slider-background-3.jpg",
+      "PackagePath": "staticwebassets/img/h3-slider-background-3.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/h3-slider-background.jpg",
+      "PackagePath": "staticwebassets/img/h3-slider-background.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/h3-team-img-1.png",
+      "PackagePath": "staticwebassets/img/h3-team-img-1.png"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/h3-team-img-2.png",
+      "PackagePath": "staticwebassets/img/h3-team-img-2.png"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/h3-team-img-3.png",
+      "PackagePath": "staticwebassets/img/h3-team-img-3.png"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/h3-team-img-4.png",
+      "PackagePath": "staticwebassets/img/h3-team-img-4.png"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/h3-video-img.jpg",
+      "PackagePath": "staticwebassets/img/h3-video-img.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/instagram1.jpg",
+      "PackagePath": "staticwebassets/img/instagram1.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/instagram2.jpg",
+      "PackagePath": "staticwebassets/img/instagram2.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/instagram3.jpg",
+      "PackagePath": "staticwebassets/img/instagram3.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/instagram4.jpg",
+      "PackagePath": "staticwebassets/img/instagram4.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/instagram5.jpg",
+      "PackagePath": "staticwebassets/img/instagram5.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/instagram6.jpg",
+      "PackagePath": "staticwebassets/img/instagram6.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/instagram7.jpg",
+      "PackagePath": "staticwebassets/img/instagram7.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/instagram8.jpg",
+      "PackagePath": "staticwebassets/img/instagram8.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/logo.png",
+      "PackagePath": "staticwebassets/img/logo.png"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/shop-11-img.jpg",
+      "PackagePath": "staticwebassets/img/shop-11-img.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/shop-12-img.jpg",
+      "PackagePath": "staticwebassets/img/shop-12-img.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/shop-13-img.jpg",
+      "PackagePath": "staticwebassets/img/shop-13-img.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/shop-14-img.jpg",
+      "PackagePath": "staticwebassets/img/shop-14-img.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/shop-7-img.jpg",
+      "PackagePath": "staticwebassets/img/shop-7-img.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/shop-8-img.jpg",
+      "PackagePath": "staticwebassets/img/shop-8-img.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/shop-9-img.jpg",
+      "PackagePath": "staticwebassets/img/shop-9-img.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/shop-category-img-1.jpg",
+      "PackagePath": "staticwebassets/img/shop-category-img-1.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/shop-category-img-2.jpg",
+      "PackagePath": "staticwebassets/img/shop-category-img-2.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/shop-category-img-3.jpg",
+      "PackagePath": "staticwebassets/img/shop-category-img-3.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/shop-category-img-4.jpg",
+      "PackagePath": "staticwebassets/img/shop-category-img-4.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/shop-category-img-5.jpg",
+      "PackagePath": "staticwebassets/img/shop-category-img-5.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/shop-category-img-6.jpg",
+      "PackagePath": "staticwebassets/img/shop-category-img-6.jpg"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/testimonial-img-1.png",
+      "PackagePath": "staticwebassets/img/testimonial-img-1.png"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/img/testimonial-img-2.png",
+      "PackagePath": "staticwebassets/img/testimonial-img-2.png"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/js/basket.js",
+      "PackagePath": "staticwebassets/js/basket.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/js/script.js",
+      "PackagePath": "staticwebassets/js/script.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/owlcarousel/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/owlcarousel/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/owlcarousel/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/owlcarousel/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/owlcarousel/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/owlcarousel/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/lib/_common.scss",
+      "PackagePath": "staticwebassets/sass/lib/_common.scss"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/lib/_mixins.scss",
+      "PackagePath": "staticwebassets/sass/lib/_mixins.scss"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/lib/_varibales.scss",
+      "PackagePath": "staticwebassets/sass/lib/_varibales.scss"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/sections/_about.scss",
+      "PackagePath": "staticwebassets/sass/sections/_about.scss"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/sections/_accordion.scss",
+      "PackagePath": "staticwebassets/sass/sections/_accordion.scss"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/sections/_blog.scss",
+      "PackagePath": "staticwebassets/sass/sections/_blog.scss"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/sections/_experts.scss",
+      "PackagePath": "staticwebassets/sass/sections/_experts.scss"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/sections/_footer.scss",
+      "PackagePath": "staticwebassets/sass/sections/_footer.scss"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/sections/_header.scss",
+      "PackagePath": "staticwebassets/sass/sections/_header.scss"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/sections/_instagram.scss",
+      "PackagePath": "staticwebassets/sass/sections/_instagram.scss"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/sections/_product-list.scss",
+      "PackagePath": "staticwebassets/sass/sections/_product-list.scss"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/sections/_product.scss",
+      "PackagePath": "staticwebassets/sass/sections/_product.scss"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/sections/_progress.scss",
+      "PackagePath": "staticwebassets/sass/sections/_progress.scss"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/sections/_say.scss",
+      "PackagePath": "staticwebassets/sass/sections/_say.scss"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/sections/_shop-list.scss",
+      "PackagePath": "staticwebassets/sass/sections/_shop-list.scss"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/sections/_slider.scss",
+      "PackagePath": "staticwebassets/sass/sections/_slider.scss"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/sections/_subscribe.scss",
+      "PackagePath": "staticwebassets/sass/sections/_subscribe.scss"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/sections/_tab.scss",
+      "PackagePath": "staticwebassets/sass/sections/_tab.scss"
+    },
+    {
+      "Id": "/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/wwwroot/sass/style.scss",
+      "PackagePath": "staticwebassets/sass/style.scss"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.Fiorella.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.build.Fiorella.props",
+      "PackagePath": "build\\Fiorella.props"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.Fiorella.props",
+      "PackagePath": "buildMultiTargeting\\Fiorella.props"
+    },
+    {
+      "Id": "obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.Fiorella.props",
+      "PackagePath": "buildTransitive\\Fiorella.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

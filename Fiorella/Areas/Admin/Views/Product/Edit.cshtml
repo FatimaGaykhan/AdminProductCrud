@@ -1,0 +1,78 @@
+﻿@model ProductEditVM
+<div class="container">
+    <section id="edit">
+
+        <div class="row mt-3">
+            <div class="col">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="card-title">Vertical Form</div>
+                        <hr>
+                        <form method="post" asp-action="Edit" enctype="multipart/form-data">
+                            <div class="form-group">
+                                <label for="input-1">Product</label>
+                                <input asp-for="Name" class="form-control" id="input-1">
+                                <span asp-validation-for="Name" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label for="input-1">Description</label>
+                                <input asp-for="Description" class="form-control" id="input-1">
+                                <span asp-validation-for="Description" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label for="input-1">Price</label>
+                                <input asp-for="Price" type="number" class="form-control" step="any" min="0" id="input-1">
+                                <span asp-validation-for="Price" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label for="input-1">Category</label>
+                                <select asp-for="CategoryId" asp-items="@ViewBag.categories" class="form-control">@ViewBag.category</select>
+                            </div>
+                            <div class="form-group">
+                                <label for="input-1">Images</label>
+
+
+                                <input asp-for="NewImages" class="form-control" id="input-1" maxlength="100" placeholder="Category ...">
+                                <span asp-validation-for="NewImages" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <button type="submit" class="btn btn-light px-5"> Submit</button>
+                                <a class="btn btn-light px-5" asp-action="Index"> Cancel</a>
+
+                            </div>
+                        </form>
+
+                        @foreach (var item in Model.Images)
+                        {
+                           <div class="row">
+                               <div class="img-area col-3">
+                                   <div class="buttons @(item.IsMain ?"d-none":"")">
+                                       <a class="btn btn-warning text-white btn-sm ismain " data-id="@item.Id" >IsMain</a>
+                                       <a class="btn btn-danger text-white btn-sm delete" data-id="@item.Id" >Delete</a>
+                                   </div>
+                                   <img class="@(item.IsMain ?"ismain-border":"") " style="width: 200px;" src="~/img/@item.Image" />
+                               </div>
+                           </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div><!--End Row-->
+        <!--start overlay-->
+    </section>
+    <div class="overlay toggle-menu"></div>
+    <!--end overlay-->
+
+</div>
+
+@section js{
+    <script  src="~/admin/assets/js/productedit.js"></script>
+
+}
+@section Style{
+    <link href="~/admin/assets/css/edit.css" />
+}
+
+
+

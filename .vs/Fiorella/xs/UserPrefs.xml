@@ -1,0 +1,76 @@
+﻿<Properties StartupConfiguration="{959D9549-42FB-4248-A391-1B6D5E20A4A2}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fiorella/Areas/Admin/Controllers/ProductController.cs">
+    <Files>
+      <File FileName="Fiorella/Areas/Admin/Controllers/ProductController.cs" Line="245" Column="10" />
+      <File FileName="Fiorella/Areas/Admin/Views/Product/Edit.cshtml" Line="74" Column="48" />
+      <File FileName="Fiorella/Areas/Admin/Controllers/CategoryController.cs" />
+      <File FileName="Fiorella/Services/Interfaces/ICategoryService.cs" />
+      <File FileName="Fiorella/Services/CategoryService.cs" />
+      <File FileName="Fiorella/Services/Interfaces/IProductService.cs" />
+      <File FileName="Fiorella/Services/ProductService.cs" />
+      <File FileName="Fiorella/Areas/Admin/Views/Blog/Edit.cshtml" />
+      <File FileName="Fiorella/Areas/Admin/Controllers/BlogController.cs" />
+      <File FileName="Fiorella/Services/Interfaces/IBlogService.cs" />
+      <File FileName="Fiorella/Services/BlogService.cs" />
+      <File FileName="Fiorella/Areas/Admin/Controllers/SliderController.cs" />
+      <File FileName="Fiorella/ViewModels/Products/ProductEditVM.cs" Line="15" Column="29" />
+      <File FileName="Fiorella/ViewModels/Products/ProductImageVM.cs" Line="4" Column="15" />
+      <File FileName="Fiorella/wwwroot/js/productedit.js" Line="30" Column="76" />
+      <File FileName="Fiorella/Areas/Admin/Views/Archive/Index.cshtml" Line="51" Column="1" />
+      <File FileName="Fiorella/wwwroot/js/basket.js" Line="4" Column="4" />
+      <File FileName="Fiorella/Areas/Admin/Views/Shared/_Layout.cshtml" Line="30" Column="65" />
+      <File FileName="Fiorella/wwwroot/admin/assets/css/edit.css" Line="3" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fiorella" expanded="True">
+            <Node name="Fiorella" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="ProductController.cs" selected="True" />
+                  </Node>
+                  <Node name="Views" expanded="True">
+                    <Node name="Archive" expanded="True" />
+                    <Node name="Product" expanded="True" />
+                    <Node name="Shared" expanded="True" />
+                    <Node name="Slider" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True">
+                <Node name="Baskets" expanded="True" />
+                <Node name="Blog" expanded="True" />
+                <Node name="Categories" expanded="True" />
+                <Node name="Products" expanded="True" />
+                <Node name="Sliders" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="admin" expanded="True">
+                  <Node name="assets" expanded="True">
+                    <Node name="css" expanded="True" />
+                    <Node name="js" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="img" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Fiorella PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,23 @@
+﻿@model ProductDetailVM
+
+@foreach (var item in Model.Images)
+{
+    <img  style="width: 200px; @(item.IsMain ?"border:5px solid red":"")  " src="~/img/@item.Image" class="card-img-top" alt="...">
+}
+<div class="card-group">
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">Product: @Model.Name</h5>
+            <p class="card-text">Description: @Model.Description</p>
+            <p class="card-text">Category: @Model.Category</p>
+
+        </div>
+        <div class="card-footer">
+            <small class="text-muted text-danger" style="">Price:@Model.Price</small>
+        </div>
+    </div>
+
+</div>
+
+<a class="btn btn-light px-5" asp-action="Index">Back</a>
+

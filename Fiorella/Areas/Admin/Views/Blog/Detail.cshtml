@@ -1,0 +1,23 @@
+﻿@model Blog
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">Blog</th>
+                    <th scope="col">Created Date</th>
+                    <th scope="col">Image</th>
+                    <th scope="col">Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                    <tr>
+                        <td>@Model.Title</td>
+                        <td>@Model.CreatedDate</td>
+                        <td><img style="width: 200px;" src="~/img/@Model.Image" /></td>
+                        <td>@Model.Description</td>
+                    </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
